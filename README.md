@@ -1,4 +1,4 @@
-# piano_bare_metal# Project Name
+# Project Name
 Piano using beaglebone without SO
 
 # Overview
